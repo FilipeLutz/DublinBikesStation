@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030388196564",
+    "project_id": "dublin-bikes-station-3bb51",
+    "storage_bucket": "dublin-bikes-station-3bb51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030388196564:android:465e22c20f0e5d56418741",
+        "android_client_info": {
+          "package_name": "com.stu25956.dublinbikesstation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCstu0xfxwh3p4jC3oKAwsdB3MkvGiaaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
