@@ -5,9 +5,8 @@
 ## Project Description
 
 This project is an Android application designed to provide information about Dublin bike stations.  
-The app integrates Firebase Authentication for user management and Google Maps API to visualize bike station locations on an interactive map.  
-It also uses data from a `dublinbike.json` file provided in the Full Stack / Back-End course.
-
+The app integrates Firebase Authentication for user management and Google Maps API to visualize bike station locations on an interactive map. 
+It also uses data from a `dublinbike.json` file provided in the Full Stack / Back-End course. 
 The project demonstrates the integration of external APIs and authentication systems in a mobile application, using modern Android technologies such as **Jetpack Compose** and **Kotlin Coroutines**.
 
 ### Key Features:
