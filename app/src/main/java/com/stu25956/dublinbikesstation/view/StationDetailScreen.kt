@@ -210,7 +210,10 @@ fun StationDetailScreen(stationId: Int, navController: NavController) {
                                 ),
                                 // Marker title and snippet
                                 title = station.name,
-                                snippet = station.address
+                                snippet =
+                                "Available Bikes: ${station.available_bikes}\n" +
+                                "Available Stands: ${station.available_bike_stands}\n" +
+                                "Status: ${station.status}"
                             )
                         }
                     }
